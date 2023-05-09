@@ -1,7 +1,7 @@
 pipeline {
     agent any
     environment {
-        APP_NAME = "my-web-dotnet-app"
+        APP_NAME = "my-web-dotnet-app-2"
         APP_PORT = "5000"
         IMAGE_TAG = "latest"
         DOCKER_REGISTRY="memariyachirag126"
